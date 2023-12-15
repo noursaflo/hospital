@@ -1,0 +1,7 @@
+*{
+    background-color: orange;
+    font-family: 'Nunito', sans-serif;
+                 background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.1)), url("/images/pexels-karolina-grabowska-4021779.jpg");
+              height:100%;
+             background-size: cover;
+}
